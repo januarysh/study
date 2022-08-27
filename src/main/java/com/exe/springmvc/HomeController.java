@@ -22,7 +22,7 @@ public class HomeController {
 	public String getHello() {
 		
 		
-		return "hello"; //WEB-INF/view/hello.jsp
+		return "hello"; //WEB-INF/view/hello.jsp·Î ¿¬°á
 	}
 	
 }
